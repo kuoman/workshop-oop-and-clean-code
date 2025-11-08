@@ -1,1 +1,1 @@
-# workshop-oop-and-clean-code
+# workshop-scalable-architecture
